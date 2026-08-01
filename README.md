@@ -7,7 +7,8 @@ For the next 30 days, I'll learn, build, and share real DevOps projects.
 ## Goals
 
 - Learn by building for 30 days
-- every week has a topic and every day is a project 
+- every week has a topic and every day is a project
+- By help of claude giving me the road map 
   
 
 ## Tech Stack
