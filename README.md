@@ -4,6 +4,8 @@ Welcome to my 30 Days of DevOps Challenge.
 
 For the next 30 days, I'll learn, build, and share real DevOps projects.
 
+3/8/2026 --> 3/9/2026
+
 ## Goals
 
 - Learn by building for 30 days
