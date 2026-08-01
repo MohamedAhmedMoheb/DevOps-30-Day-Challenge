@@ -1,8 +1,7 @@
-# 🚀 The 30-Day DevOps Challenge (Hiring-Manager-Reviewed Edition)
-### From Computer Engineering Student to Internship-Ready DevOps Engineer
+# 🚀 The 30-Day DevOps Challenge 
+### From Computer Engineering Student to DevOps Engineer Journey
 
-> **Mentor's Note:** This is not a course. It is a *build log*. Every day you ship something real, push it to GitHub, and write about it. By Day 30 you will have a portfolio that speaks louder than any certificate — a working, production-style system: `Nginx → Go API → Redis → PostgreSQL → Docker → Kubernetes → GitHub Actions → Terraform → AWS`, monitored with Prometheus and Grafana.
-
+>
 > **Hiring Manager's Note:** This version was reviewed against what actually gets an entry-level DevOps candidate through a real interview loop at a large tech company. Three things changed from a typical tutorial-roadmap: (1) **Python is included**, because it's the most commonly required scripting language in DevOps/Cloud internship JDs; (2) **security scanning is built into every relevant day** (secrets, containers, IaC, dependencies) — this is no longer optional at any serious company; (3) **interview and resume preparation is treated as a deliverable**, not an afterthought, because a flawless capstone that you can't talk about fluently in an interview does not get you hired. One low-signal "busywork" day was cut to make room.
 >
 > **On pacing:** 30 consecutive high-effort days is not realistic alongside coursework/exams. Treat "Day N" as a *unit of work*, not a calendar day — batch two units on a free weekend day, skip a day around an exam, but don't skip the order. What matters is finishing all 30 units before you start applying, not finishing them in exactly 30 calendar days.
