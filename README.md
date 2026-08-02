@@ -28,4 +28,4 @@ For the next 30 days, I'll learn, build, and share real DevOps projects.
 
 | Day | Topic | Status |
 |------|-------|--------|
-| Day 1 | 
+| Day 0 | SetUp the enviroment | Done 🟢 
