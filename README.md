@@ -30,3 +30,4 @@ For the next 30 days, I'll learn, build, and share real DevOps projects.
 |------|-------|------------|--------|
 | Day 0 | SetUp the environment | — | Done 🟢 |
 | Day 1 | System Audit Script | [Day-1](https://github.com/MohamedAhmedMoheb/Day-1) | Done 🟢 |
+| Day 2 | Log analyzer        | [Day-1](https://github.com/MohamedAhmedMoheb/Day-2) | Done 🟢 |
